@@ -1,0 +1,14 @@
+.footer-contenedor, .header-container{
+    background: rgb(129, 227, 120);
+    text-align: center;
+    max-width: 120rem;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 90%;
+    height: 30px;
+    font-weight: 500;
+    font-size: 115%;
+
+}
+
